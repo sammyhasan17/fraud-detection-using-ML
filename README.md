@@ -6,4 +6,8 @@ Building a machine learning model to detect credit card fraud using 1.3M real-wo
 
 specifically using Extreme Gradient Boosting 
 
--- Stay tuned for updates!
+What is ensemble learning and WHY?
+
+
+
+Stay tuned for updates!
