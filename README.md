@@ -2,13 +2,13 @@
 
 ## Currently in Progress 
  
-Building a machine learning model to detect credit card fraud using 1.3M real-world banking transactions.
+### Building a machine learning model to detect credit card fraud using 1.3M real-world banking transactions.
 
-specifically using Extreme Gradient Boosting 
+specifically using Ensemble learning with Extreme Gradient Boosting (XGBoost)
 
 What is ensemble learning and WHY use it?
 
-# what is ensembel learning?
+# What is ensembel learning?
 Instead of training 1 super accurate model (Neural Network), we will train a large number of low accuracy models and then combine them to achieve high accuracy
 
 # Why does it make sense for this project?
