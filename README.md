@@ -2,6 +2,6 @@
 
 ## Currently in Progress 
  
-Building a machine learning model to detect credit card fraud using 1.2M+ real-world banking transactions.
+Building a machine learning model to detect credit card fraud using 1.3M real-world banking transactions.
 
 -- Stay tuned for updates!
