@@ -1,6 +1,6 @@
-# 🚧 Credit Card Fraud Detection (WIP)
+# 🚧 Credit Card Fraud Detection 🚧
 
-## Currently in Progress 
+## ❗Currently in Progress 
  
 ### Building a machine learning model to detect credit card fraud using 1.3M real-world banking transactions.
 
