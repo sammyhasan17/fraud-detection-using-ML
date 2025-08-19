@@ -1,19 +1,28 @@
-# 🚧 Credit Card Fraud Detection 🚧
+# 🚧 Credit Card Fraud Detection 🚧  
 
-## ❗Currently in Progress 
- 
-### Building a machine learning model to detect credit card fraud using 1.3M real-world banking transactions.
+## ✅ Model Built — Currently in Testing & Validation  
 
-specifically using Ensemble learning with Extreme Gradient Boosting (XGBoost)
+### Developed a machine learning model to detect credit card fraud using **1.3M real-world banking transactions**.  
+Specifically built with **Ensemble Learning using XGBoost (Extreme Gradient Boosting).**  
 
-What is ensemble learning and WHY use it?
+---
 
-# What is ensemble learning?
-Instead of training 1 super accurate model (like a Neural Network), we will train a large number of low accuracy models and then combine them to achieve high accuracy
+## 📌 What is Ensemble Learning?  
+Instead of training one “super-model,” we train **many weaker models** and combine them.  
+This improves accuracy, reduces overfitting, and helps the system adapt to **fraud patterns it hasn’t seen before.**
 
-# Why does it make sense for this project?
+---
 
-1. it reduces overfitting—helping the model detect new fraud patterns it has never seen
-2. the enememble model can learn effectively from the limited fraud examples - this is due to focusing on the mistakes made in previous examples, gradually improving its ability to identify rare cases
+## 💡 Why does it make sense for this project?  
+1. It **reduces overfitting** — helping the model detect new fraud patterns it has never seen.  
+2. The **ensemble model can learn effectively from limited fraud examples** — by focusing on the mistakes made in previous rounds, it gradually improves its ability to identify rare cases.  
 
-Stay tuned for updates!
+---
+
+# 🔜 NEXT STEPS  
+- **Validate against overfitting** with stricter tests.  
+- **Compare with other approaches** (Random Forest, LightGBM, Deep Learning).  
+- **Fine-tune thresholds & metrics** (Precision/Recall, PR-AUC).  
+
+Stay tuned for results!
+```
